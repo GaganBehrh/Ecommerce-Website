@@ -50,3 +50,11 @@ h1 {
 .menuelement {
   margin-top: 20px;
 }
+#submitbutton {
+  padding: 20px;
+  background-color: rgb(101, 207, 101);
+  border-radius: 120px;
+  display: block;
+  margin: auto;
+  border-radius: 50px solid rgb(145, 221, 145);
+}
