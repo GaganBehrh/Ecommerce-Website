@@ -21,7 +21,6 @@
   text-decoration: none;
   font-size: 17px;
 }
-
 /* Change the color of links on hover */
 .topnav a:hover {
   background-color: #ddd;
@@ -36,8 +35,17 @@
 }
 h1 {
   margin-left: 500px;
-  color: yellow;
 }
+#aboutusheading {
+  margin-left: 700px;
+}
+#aboutusimg {
+  margin: auto;
+  display: block;
+  width: 400px;
+  border-radius: 200px;
+}
+
 #orderbutton {
   padding: 20px;
   background-color: rgb(101, 207, 101);
@@ -57,4 +65,8 @@ h1 {
   display: block;
   margin: auto;
   border-radius: 50px solid rgb(145, 221, 145);
+}
+p {
+  text-align: center;
+  font-size: large;
 }
